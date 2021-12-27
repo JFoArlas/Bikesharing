@@ -3,7 +3,7 @@
 ## Overview
 The purpose of this challenge was to analyze New York City bikesharing data. This data allows us to gain an understanding of the business needs of a bikesharing company and to present a case to convince investors that a similar bikesharing program in Des Moines would be a solid business investment. I created the following visualizations from the data in a [Tableau Dashboard](https://public.tableau.com/views/Bikesharing_Challenge_16405637883790/BikesharinginNYC?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
-## Results:
+## Results
 ### Trip Duration
 ![Checkout Times](https://github.com/JFoArlas/Bikesharing/blob/main/Resources/ChallengeVis_1.png)
 
@@ -39,7 +39,7 @@ Popular time trends are consistent amongst genders.
 
 The highest volume of rides is by male subscribers on Thursdays.
 
-## Summary:
+## Summary
 While there are far more male riders in the data, male and female riders have similar bikesharing usage patterns in terms of when and how long they use the service.  It is good to know that many people who use bikesharing use it to get to and from work. With that information, we know that we need to saturate areas of the city where people work with bikes during commuting hours.
 
-Knowing that the most common trip duration is 5 minutes, and that the majority of trips are under 20 minutes, it could be helpful to find out if there are any patterns that could explain why some riders would use bikesharing for longer rides. With that in mind, I recommend 2 additional visualizations: one of a map that shows where the longer rides are occurring, and another that shows what times longer rides are occuring.
+Knowing that the most common trip duration is 5 minutes and that the majority of trips are under 20 minutes, it could be helpful to find out if there are any patterns that could explain why some riders would use bikesharing for longer rides. With that in mind, I recommend 2 additional visualizations: one of a map that shows where the longer rides are occurring, and another that shows what times longer rides are occuring.
